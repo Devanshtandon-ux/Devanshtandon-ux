@@ -59,7 +59,7 @@ VS Code
 
 📧 Email: dev1001tandon@gmail.com
 
-💼 LinkedIn: ([https://www.linkedin.com/in/devansh-tandon](https://www.linkedin.com/in/devansh-tandon-995875358?))
+💼 LinkedIn: (https://www.linkedin.com/in/devansh-tandon-995875358?)
 
 🌐 Portfolio: (https://devanshtandon-ux.github.io/Portfolio)
 
